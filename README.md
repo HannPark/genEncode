@@ -23,16 +23,16 @@ C:\Users\myuser\Documents\example.log
 ```
 ![](img/logpathcli.png)
 
-or you can use the `example.log` given that is in `logs/example.log`
+Or you can use the `example.log` given that is in `logs/example.log`
 
 ![](img/givenlogfile.png)
 
-as a result you can see the polyline and the number of coordinates found
+As a result you can see the polyline and the number of coordinates found
 
 ![](img/result.png)
 
 ### DISCLAIMER
-in order to encode the coordinates I'm using the [go-polyline](https://github.com/twpayne/go-polyline) library from [twpayne](https://github.com/twpayne)
+In order to encode the coordinates I'm using the [go-polyline](https://github.com/twpayne/go-polyline) library from [twpayne](https://github.com/twpayne)
 
 ## License
 
